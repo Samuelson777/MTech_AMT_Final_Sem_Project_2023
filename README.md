@@ -65,3 +65,6 @@ For more information, please contact:
 - Email: [gsamuelsonguna@gmail.com]
 
 ---
+
+## License
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/Samuelson777/MTech_AMT_Final_Sem_Project_2023/blob/main/LICENSE) file for details.
